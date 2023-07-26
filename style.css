@@ -24,6 +24,10 @@ body {
   text-align: center;
 }
 
+.five {
+  text-align: center;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -152,6 +156,10 @@ button {
   border-color: #F9FAF8;
   border-style: solid;
   border-width: 1px;
+}
+
+.five p {
+  color: #F9FAF8;
 }
 
 img { 
